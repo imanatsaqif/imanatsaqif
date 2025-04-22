@@ -1,22 +1,70 @@
-# Hello, World! 👋
+# Hi, I'm Imana Tsaqif Ariyadi
 
-I'm Imana Tsaqif Ariyadi, and I'm thrilled to welcome you to my GitHub profile. I'm a final-year computer science student at Institut Pertanian Bogor (IPB University) with a penchant for blending technology and artistic expression. 
+Fresh graduate in Computer Science from IPB University  
+Front-End Developer | Firebase Enthusiast | UI/UX Explorer  
+Creative storyteller with a tech core
+
+---
 
 ## About Me
 
-- 🌱 Currently, I'm honing my skills in computer science, exploring the intricate dance between coding and creativity.
-- 💡 I'm captivated by the worlds of machine learning and content creation, constantly seeking innovative ways to marry the two.
-- 📚 My academic journey has equipped me with a strong foundation, and I've complemented it with hands-on experiences from my extracurricular activities.
-- 🎓 I'm an enthusiast of lifelong learning, and I believe that combining technical prowess with a creative mindset is the key to unlocking endless possibilities.
+I'm a passionate developer with a background in **machine learning**, **React development**, and **Firebase-based systems**. My journey blends technical problem-solving with a storyteller’s heart—shaped by years of creating content, directing, and editing videos. I thrive at the intersection of **clean code** and **clean design**.
 
-## What I'm Up To
+Currently, I work remotely as a **Website Developer at RuangHalal.id**, building efficient, accessible, and scalable web solutions.
 
-- 🔭 In my final year, I'm diving deep into projects that fuse my passion for machine learning and my flair for creative storytelling.
-- 📹 Drawing from my experiences in content creation, I'm exploring ways to visualize complex concepts and make them accessible to all.
-- 🌐 You can also find me on my personal [Portfolio](https://imanatsaqif.github.io/imanatsaqif/) where I'm documenting my journey and sharing insights.
+---
 
-## Get in Touch
+## Tech Stack & Tools
 
-📫 Feel free to connect with me on LinkedIn to share ideas, collaborate on projects, or simply have a chat. Email me: iimtsaqif@gmail.com.
+- **Languages & Frameworks**  
+  JavaScript | TypeScript | React | Next.js | Tailwind CSS
 
-Stay curious, keep learning, and let's make technology an art form together. 🚀
+- **Backend / Cloud**  
+  Firebase (Firestore, Auth, Hosting) | REST APIs
+
+- **Tools & Platforms**  
+  Git & GitHub | VS Code | Figma | Vercel | Notion
+
+---
+
+## Featured Projects
+
+### Village Management App (Skripsi)
+A system for managing digital village innovation data  
+> Firebase-powered CRUD + Address API + Card UI + Real-time updates
+
+### Cashier Web App
+Point-of-sale app with stock tracking and virtual receipts  
+> Clean UI, product search, Firestore backend
+
+### RuangHalal.id (Live)
+Landing page and form-based system for halal certification services  
+> React + Firebase + No-auth Firestore form integration  
+> Ongoing: UI polish, SEO optimization, data visualization
+
+---
+
+## Learning & Development
+
+- **Bangkit Academy 2023** – Machine Learning Path (Google, GoTo, Traveloka)  
+- Always exploring more about **UI/UX design**, **accessibility**, and **data analytics**
+
+---
+
+## Fun Facts
+
+- I love strategy games like Crusader Kings III (currently ruling Forsberg, 1079 AD).
+- I play Dungeons & Dragons—my character “Rain” travels with a loyal wolf, *Fenrir*.
+- Started creating content and short films at age 12, still making things today.
+
+---
+
+## Let's Connect
+
+Reach me on [LinkedIn](https://linkedin.com/in/imanatsaqif)  
+Portfolio (Coming Soon)  
+Based in Indonesia, open to remote & international opportunities
+
+---
+
+> *“Functionality first. Fancy words later.”*
