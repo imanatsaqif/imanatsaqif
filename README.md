@@ -29,15 +29,15 @@ Currently, I work remotely as a **Website Developer at RuangHalal.id**, building
 
 ## Featured Projects
 
-### Village Management App (Skripsi)
+### [Village Management App (Skripsi)](https://github.com/imanatsaqif/KMSInovasiDesaDigitalwithFirebase)  
 A system for managing digital village innovation data  
 > Firebase-powered CRUD + Address API + Card UI + Real-time updates
 
-### Cashier Web App
+### [Kasir Bapak (Cashier Web App)](https://github.com/imanatsaqif/Kasir-Bapak)  
 Point-of-sale app with stock tracking and virtual receipts  
 > Clean UI, product search, Firestore backend
 
-### RuangHalal.id (Live)
+### RuangHalal.id (Live)  
 Landing page and form-based system for halal certification services  
 > React + Firebase + No-auth Firestore form integration  
 > Ongoing: UI polish, SEO optimization, data visualization
@@ -53,8 +53,8 @@ Landing page and form-based system for halal certification services
 
 ## Fun Facts
 
-- I love strategy games like Crusader Kings III (currently ruling Forsberg, 1079 AD).
-- I play Dungeons & Dragons—my character “Rain” travels with a loyal wolf, *Fenrir*.
+- I love strategy games like Crusader Kings III
+- I play Dungeons & Dragons
 - Started creating content and short films at age 12, still making things today.
 
 ---
