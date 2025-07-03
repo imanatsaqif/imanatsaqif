@@ -32,7 +32,7 @@ Final thesis project for managing innovation in digital villages
 POS system with stock management and virtual receipts  
 > Firestore backend + real-time updates + responsive UI
 
-### [RuangHalal.id (Live)](https://ruang-halal.vercel.app)  
+### [RuangHalal.id (Live)](https://github.com/imanatsaqif/RuangHalal)  
 Production-ready landing page and form system for halal certification  
 > React + Firebase + Firestore (no-auth form)  
 > Status: Live — polishing UI, adding SEO and analytics
