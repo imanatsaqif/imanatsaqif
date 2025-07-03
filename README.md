@@ -2,69 +2,64 @@
 
 Fresh graduate in Computer Science from IPB University  
 Front-End Developer | Firebase Enthusiast | UI/UX Explorer  
-Creative storyteller with a tech core
+Creative storyteller with a tech foundation
 
 ---
 
 ## About Me
 
-I'm a passionate developer with a background in **machine learning**, **React development**, and **Firebase-based systems**. My journey blends technical problem-solving with a storyteller’s heart—shaped by years of creating content, directing, and editing videos. I thrive at the intersection of **clean code** and **clean design**.
+I'm a developer with a strong foundation in React, Firebase, and machine learning, complemented by a creative background in filmmaking and digital storytelling. I enjoy building web apps that are not only functional but also thoughtfully designed.
 
-Currently, I work remotely as a **Website Developer at RuangHalal.id**, building efficient, accessible, and scalable web solutions.
+Currently working remotely as a Website Developer at RuangHalal.id, where I build responsive, accessible, and scalable frontend systems.
 
 ---
 
-## Tech Stack & Tools
+## Tech Stack
 
-- **Languages & Frameworks**  
-  JavaScript | TypeScript | React | Next.js | Tailwind CSS
-
-- **Backend / Cloud**  
-  Firebase (Firestore, Auth, Hosting) | REST APIs
-
-- **Tools & Platforms**  
-  Git & GitHub | VS Code | Figma | Vercel | Notion
+- Languages & Frameworks: JavaScript, TypeScript, React, Next.js, Tailwind CSS  
+- Backend / Cloud: Firebase (Firestore, Auth, Hosting), REST APIs  
+- Tools: Git & GitHub, Vercel, VS Code, Figma, Notion
 
 ---
 
 ## Featured Projects
 
-### [Village Management App (Skripsi)](https://github.com/imanatsaqif/KMSInovasiDesaDigitalwithFirebase)  
-A system for managing digital village innovation data  
-> Firebase-powered CRUD + Address API + Card UI + Real-time updates
+### [KMS Inovasi Desa Digital](https://github.com/imanatsaqif/KMSInovasiDesaDigitalwithFirebase)  
+Final thesis project for managing innovation in digital villages  
+> React + TypeScript + Firebase (Firestore) + Indonesian address API
 
-### [Kasir Bapak (Cashier Web App)](https://github.com/imanatsaqif/Kasir-Bapak)  
-Point-of-sale app with stock tracking and virtual receipts  
-> Clean UI, product search, Firestore backend
+### [Kasir Bapak](https://github.com/imanatsaqif/Kasir-Bapak)  
+POS system with stock management and virtual receipts  
+> Firestore backend + real-time updates + responsive UI
 
-### RuangHalal.id (Live)  
-Landing page and form-based system for halal certification services  
-> React + Firebase + No-auth Firestore form integration  
-> Ongoing: UI polish, SEO optimization, data visualization
+### [RuangHalal.id (Live)](https://ruang-halal.vercel.app)  
+Production-ready landing page and form system for halal certification  
+> React + Firebase + Firestore (no-auth form)  
+> Status: Live — polishing UI, adding SEO and analytics
 
 ---
 
-## Learning & Development
+## Learning and Certifications
 
-- **Bangkit Academy 2023** – Machine Learning Path (Google, GoTo, Traveloka)  
-- Always exploring more about **UI/UX design**, **accessibility**, and **data analytics**
+- Bangkit Academy 2023 – Machine Learning Path (Google, GoTo, Traveloka)  
+- Currently exploring UI/UX design, accessibility, and data visualization
 
 ---
 
 ## Fun Facts
 
-- I love strategy games like Crusader Kings III
-- I play Dungeons & Dragons
-- Started creating content and short films at age 12, still making things today.
+- Crusader Kings III strategist and D&D game master  
+- Started directing short films and YouTube content at 12  
+- Passionate about visual storytelling and narrative interfaces
 
 ---
 
 ## Let's Connect
 
-Reach me on [LinkedIn](https://linkedin.com/in/imanatsaqif)  
-Portfolio (Coming Soon)  
-Based in Indonesia, open to remote & international opportunities
+Based in Indonesia – open to remote and international roles  
+LinkedIn: [https://linkedin.com/in/imanatsaqif](https://linkedin.com/in/imanatsaqif)  
+Portfolio: Coming soon
 
 ---
 
-> *“Functionality first. Fancy words later.”*
+*“Functionality first. Fancy words later.”*
