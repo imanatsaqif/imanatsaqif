@@ -10,8 +10,6 @@ Creative storyteller with a tech foundation
 
 I'm a developer with a strong foundation in React, Firebase, and machine learning, complemented by a creative background in filmmaking and digital storytelling. I enjoy building web apps that are not only functional but also thoughtfully designed.
 
-Currently working remotely as a Website Developer at RuangHalal.id, where I build responsive, accessible, and scalable frontend systems.
-
 ---
 
 ## Tech Stack
